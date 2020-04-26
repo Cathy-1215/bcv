@@ -8,4 +8,6 @@ new Vue({
             console.log(this.$refs.username.value);
         }
     }
+    
+    mounted(){}
 })
